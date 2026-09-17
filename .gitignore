@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+.env
+.env.local
+.env.*.local
+*.log
+.DS_Store
+.vscode/
+tsconfig.tsbuildinfo
+
+# Pushed once the gh token has the `workflow` scope (gh auth refresh -s workflow)
+.github/workflows/

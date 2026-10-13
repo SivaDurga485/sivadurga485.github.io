@@ -25,7 +25,7 @@ const jetbrainsMono = JetBrains_Mono({
 export const metadata: Metadata = {
   title: 'Sivadurga Kondapalli — Power BI Developer & BI Engineer',
   description:
-    'Power BI Developer with close to 3 years across Power BI, DAX, Power Query (M), SQL/T-SQL and Snowflake — paginated reports, semantic modeling, performance tuning and legacy-to-cloud migration.',
+    'Power BI Developer with 3 years of experience across Power BI, DAX, Power Query (M), SQL/T-SQL and Snowflake — paginated reports, semantic modeling, performance tuning and legacy-to-cloud migration.',
 }
 
 export default function RootLayout({

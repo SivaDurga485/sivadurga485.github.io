@@ -12,11 +12,11 @@ type Kpi = {
 }
 
 /* Every figure here is sourced from the resume:
- * - 2.8 yrs  : Dec 2023 (HCLTech GET) → present
+ * - 3 yrs    : Dec 2023 (HCLTech GET) → present
  * - 03       : SnowPro Core, AWS Cloud Practitioner, Azure Fundamentals
  * - 95%      : "Reduced dashboard visual load times by up to 95%" (~60s → 2-3s) */
 const KPIS: Kpi[] = [
-  { value: 2.8, decimals: 1, suffix: '', label: 'Years Experience' },
+  { value: 3, decimals: 0, suffix: '', label: 'Years Experience' },
   { value: 3, decimals: 0, suffix: '', label: 'Certifications' },
   { value: 95, decimals: 0, suffix: '%', label: 'Peak load-time cut', accent: true },
 ]

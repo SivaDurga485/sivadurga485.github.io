@@ -82,7 +82,7 @@ export default function Hero() {
                 variants={fadeUp}
                 className="mt-9 max-w-xl text-base leading-relaxed text-dim md:text-[1.0625rem] md:leading-8"
               >
-                Power BI Developer with close to three years across Power BI, DAX,
+                Power BI Developer with 3 years of experience across Power BI, DAX,
                 Power Query&nbsp;(M), SQL/T-SQL and Snowflake — paginated reports, semantic
                 modeling, performance tuning and legacy-to-cloud migration with zero disruption.
               </motion.p>

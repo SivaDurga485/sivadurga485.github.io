@@ -16,7 +16,7 @@ const personalData = [
 
 const professionalData = [
   {
-    title: '2.8 Years Experience',
+    title: '3 Years Experience',
     desc: 'Power BI Developer at HCLTech, Chennai — Graduate Engineer Trainee since Dec 2023, Software Engineer since Jan 2025',
   },
   {
